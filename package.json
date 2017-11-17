@@ -40,6 +40,7 @@
     "karma-webpack": "^2.0.5",
     "mocha": "^4.0.1",
     "node-sass": "^4.6.1",
+    "node-uuid": "^1.4.8",
     "react-addons-test-utils": "^15.6.2",
     "sass-loader": "^4.1.1",
     "script-loader": "^0.6.1",
